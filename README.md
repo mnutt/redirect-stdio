@@ -2,6 +2,8 @@
 
 Utilities for redirecting node process stdout and stderr.
 
+Note: Only works on MacOS and Linux.
+
 ## Motivation
 
 Imagine you have a node app that logs to stdout and a bash script that
